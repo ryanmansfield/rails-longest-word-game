@@ -14,3 +14,11 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+// const time_taken = (event) => {
+//     const form = document.querySelector('#word-form');
+//     form.addEventListener('submit', (event) => {
+//       const time_taken = event.timestamp;
+//     });
+//   end
+// };
